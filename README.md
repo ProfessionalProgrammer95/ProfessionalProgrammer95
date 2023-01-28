@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rakshitha v</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<image="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FRahimaKhanam&psig=AOvVaw1rZ7GTkcc9x5sKh5b1YXIq&ust=1674973673680000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNiqoqrR6fwCFQAAAAAdAAAAABAL">
+
 - 🔭 I’m currently working on **Python, Full Stack Development**
 
 - 🌱 I’m currently learning **Python, MEARN**
