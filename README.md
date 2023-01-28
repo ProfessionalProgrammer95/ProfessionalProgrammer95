@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakshitha v</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer and backend developer from India</h3>
 
-<image="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FRahimaKhanam&psig=AOvVaw1rZ7GTkcc9x5sKh5b1YXIq&ust=1674973673680000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNiqoqrR6fwCFQAAAAAdAAAAABAL">
+<img align="right" alt="Coding" width="400" scr="https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
 
 - 🔭 I’m currently working on **Python, Full Stack Development**
 
